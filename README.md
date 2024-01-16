@@ -27,3 +27,6 @@ Interactivity:
 - Dashboard map and charts are inter-related
   - Clicking on a dot point will highlight the Latitude and Longitude of the station and count of rides for 2023
   - Charts will filter to the chosen dot point highlighting more details such as breakdown of member rides and rides for each month
+
+It can be viewed by the file in twbx file in this repository or in the below link:
+https://public.tableau.com/shared/B5K9PDXHF?:display_count=n&:origin=viz_share_link
